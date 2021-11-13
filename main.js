@@ -59,7 +59,7 @@ const sleep = async _0x592665 => {
         start('2', _0x3b9e2f(0x1d8));
     }), _0x4e99c9['on'](_0x24c599(0x165), () => {
         const _0x44e554 = _0x24c599;
-        success('2', 'Connect ho gya chutmarike > Ab Xeon ko subscribe kar'), console[_0x44e554(0x17b)](color(figlet['textSync'](spc1 + _0x44e554(0x197), {
+        success('2', 'Connect ho gya chutmarike > Ab Chintu ko subscribe kar'), console[_0x44e554(0x17b)](color(figlet['textSync'](spc1 + _0x44e554(0x197), {
             'font': 'Standard',
             'horizontalLayout': 'default',
             'vertivalLayout': _0x44e554(0x1fc),
